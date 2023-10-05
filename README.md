@@ -3,8 +3,8 @@
 ### Theme setup
 Clone git repository.
 ```
-```
 git clone https://github.com/Yradouani/StickerSmash.git
+```
 ```
 
 ### Project setup
@@ -19,7 +19,10 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npx expo start
+npx expo start or npx expo start -c (if babel.config.js file is modified)
+
+Press a │ open Android
+Press w │ open web
 ```
 
 ### Compiles and minifies for production
