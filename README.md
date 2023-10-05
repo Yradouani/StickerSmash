@@ -1,4 +1,4 @@
-# VisionsNouvelles Starter Theme
+# StickerSmash Starter App
 
 ### Theme setup
 Clone git repository.
